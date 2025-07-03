@@ -8,7 +8,7 @@ export type QuizQuestion = {
   }[];
 };
 
-export const quizData: QuizQuestion[] = [
+export const questions: QuizQuestion[] = [
     {
     question: "When someone’s upset, do you:",
     options: [
